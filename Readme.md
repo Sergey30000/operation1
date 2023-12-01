@@ -1,4 +1,5 @@
 #Operation 1
+1. git clone https://github.com/Sergey30000/operation1.git
 ## Services used
 1. postgresql
 2. pgadmin
