@@ -24,9 +24,8 @@ Folder in project - /scripts
 2. bash start.sh
 3. Open browser http://localhost:5050/browser/ (Email - admin@admin.com, Password - root)
 4. Create server in pgadmin (Name - pg_serv, Host name - db, Port - 5432, Username - postgres, Password - postgres)
-5. bash start.sh
-6. bash volunteer_token_project.sh localhost 3001
-7. bash adding_data_project.sh localhost 3001 volunteer_token
-8. bash admin_token_project.sh localhost 3001
-9. bash reading_data_project.sh localhost 3001 admin_token
-10. bash stop.sh
+5. bash volunteer_token_project.sh localhost 3001
+6. bash adding_data_project.sh localhost 3001 volunteer_token
+7. bash admin_token_project.sh localhost 3001
+8. bash reading_data_project.sh localhost 3001 admin_token
+9. bash stop.sh
